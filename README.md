@@ -12,7 +12,7 @@ python3 main.py
 ``` 
 If there are any parts with same part number with different EANs you will receive the part number and both EAN-Codes in a new csv in the output folder.
 
-##Closer Description
+## Closer Description
 
 This short program helped after a data crash.
 There was a inconsistency in the data stored in the amazon account and the data stored in the ware house management system.
